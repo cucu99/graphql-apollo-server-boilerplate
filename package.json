@@ -1,0 +1,16 @@
+{
+  "name": "apollo-server-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for graphql apollo server",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --exec babel-node src/index.js"
+  },
+  "keywords": [],
+  "author": "Daniel Kirchner",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "nodemon": "^1.18.6"
+  }
+}
